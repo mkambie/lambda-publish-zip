@@ -12,3 +12,7 @@
   108  rm -r venv/								//Remove virtual env directory
 
   //Open our directory and zip all contents to upload in lambda console
+
+  
+  //Python Req put:
+  https://www.programcreek.com/python/example/2253/requests.put
