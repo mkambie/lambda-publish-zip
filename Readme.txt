@@ -16,3 +16,14 @@
   
   //Python Req put:
   https://www.programcreek.com/python/example/2253/requests.put
+  
+  Test Resolving hostname by lambda function
+  https://stackoverflow.com/questions/50145859/resolving-a-private-hostname-within-a-lambda-function
+  
+  //Serverless
+  https://medium.com/faun/aws-lambda-serverless-framework-python-a-step-by-step-tutorial-part-2-using-aws-kms-with-9bdad3381024
+
+  
+  //Flow Credentials
+  https://auth0.com/docs/flows/concepts/client-credentials
+  
